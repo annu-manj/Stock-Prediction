@@ -1,4 +1,4 @@
-# Stock-Sentiment-Analysis
+# Stock-Prediction
 
 This project involves using Natural Language Processing (NLP) techniques and machine learning to predict stock market movements based on daily news headlines.
 Project Overview
